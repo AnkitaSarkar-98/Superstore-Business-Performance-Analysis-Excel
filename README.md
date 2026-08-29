@@ -1,14 +1,14 @@
-# 📊 Superstore Business Performance Dashboard
+#  Superstore Business Performance Dashboard
 
 Welcome to the **Superstore Business Performance Dashboard** project! This project provides a comprehensive end-to-end data analysis solution built entirely in Microsoft Excel to track sales performance, profitability, customer behaviors, order fulfillment efficiency, and discount dynamics for a retail business.
 
 ---
 
-## 📌 Overview
+##  Overview
 
 The goal of this analysis is to evaluate sales performance and profit margins across various dimensions—such as sub-categories, customer segments, discount bands, and geographic regions—to uncover actionable insights that drive revenue growth and operational optimization.
 
-### 🔑 Key Performance Indicators (KPIs)
+###  Key Performance Indicators (KPIs)
 * **Total Sales:** $22,97,200.86
 * **Total Profit:** $2,86,397.02
 * **Average Order Value (AOV):** $229.86
@@ -17,12 +17,12 @@ The goal of this analysis is to evaluate sales performance and profit margins ac
 
 ---
 
-## 🛠️ Tools & Methods Used
+##  Tools & Methods Used
 
-### 🛠️ Tools
+###  Tools
 * **Microsoft Excel**: Core tool used for data extraction, transformation, analytical calculations, and visual dashboard design.
 
-### 📐 Analytical Methods & Features
+###  Analytical Methods & Features
 1. **Data Cleaning & Transformation**:
    * Removed duplicate values, missing records, and formatted data types (Currency, Dates, Integers).
    * Created calculated fields for custom groupings, day of the week extractions, shipping lead times, and discount ranges.
@@ -44,7 +44,7 @@ The goal of this analysis is to evaluate sales performance and profit margins ac
 
 ---
 
-## 📈 Key Insights & Analysis Findings
+##  Key Insights & Analysis Findings
 
 1. **Discount vs Profit Impact**:
    * Higher discounts (>20%) sharply diminish net profit margins, turning heavily negative at 30%+ discount levels.
@@ -63,7 +63,7 @@ The goal of this analysis is to evaluate sales performance and profit margins ac
 
 ---
 
-## 🎯 Conclusion & Strategic Recommendations
+## Conclusion & Strategic Recommendations
 
 * **Optimize Discount Policies:** Cap promotional discounts at **20% max** across vulnerable product categories (especially Tables and Bookcases) to protect gross margins.
 * **Focus on High-Margin Categories:** Shift marketing spend and prominent ad placements toward Copiers, Phones, and Accessories.
